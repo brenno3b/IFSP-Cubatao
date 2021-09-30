@@ -1,0 +1,44 @@
+C:\Users\dougd\source\repos\Trab01\WebTrab01\bin\Debug\netcoreapp2.1\WebTrab01.deps.json
+C:\Users\dougd\source\repos\Trab01\WebTrab01\bin\Debug\netcoreapp2.1\WebTrab01.runtimeconfig.json
+C:\Users\dougd\source\repos\Trab01\WebTrab01\bin\Debug\netcoreapp2.1\WebTrab01.runtimeconfig.dev.json
+C:\Users\dougd\source\repos\Trab01\WebTrab01\bin\Debug\netcoreapp2.1\WebTrab01.dll
+C:\Users\dougd\source\repos\Trab01\WebTrab01\bin\Debug\netcoreapp2.1\WebTrab01.pdb
+C:\Users\dougd\source\repos\Trab01\WebTrab01\obj\Debug\netcoreapp2.1\WebTrab01.csprojAssemblyReference.cache
+C:\Users\dougd\source\repos\Trab01\WebTrab01\obj\Debug\netcoreapp2.1\WebTrab01.csproj.CoreCompileInputs.cache
+C:\Users\dougd\source\repos\Trab01\WebTrab01\obj\Debug\netcoreapp2.1\WebTrab01.RazorAssemblyInfo.cache
+C:\Users\dougd\source\repos\Trab01\WebTrab01\obj\Debug\netcoreapp2.1\WebTrab01.RazorAssemblyInfo.cs
+C:\Users\dougd\source\repos\Trab01\WebTrab01\obj\Debug\netcoreapp2.1\WebTrab01.AssemblyInfoInputs.cache
+C:\Users\dougd\source\repos\Trab01\WebTrab01\obj\Debug\netcoreapp2.1\WebTrab01.AssemblyInfo.cs
+C:\Users\dougd\source\repos\Trab01\WebTrab01\obj\Debug\netcoreapp2.1\WebTrab01.RazorTargetAssemblyInfo.cache
+C:\Users\dougd\source\repos\Trab01\WebTrab01\obj\Debug\netcoreapp2.1\WebTrab01.dll
+C:\Users\dougd\source\repos\Trab01\WebTrab01\obj\Debug\netcoreapp2.1\WebTrab01.pdb
+D:\Desktop\faculdade\tuller\asp\AspIfsp\Trab1\WebTrab01\bin\Debug\netcoreapp2.1\WebTrab01.deps.json
+D:\Desktop\faculdade\tuller\asp\AspIfsp\Trab1\WebTrab01\bin\Debug\netcoreapp2.1\WebTrab01.runtimeconfig.json
+D:\Desktop\faculdade\tuller\asp\AspIfsp\Trab1\WebTrab01\bin\Debug\netcoreapp2.1\WebTrab01.runtimeconfig.dev.json
+D:\Desktop\faculdade\tuller\asp\AspIfsp\Trab1\WebTrab01\bin\Debug\netcoreapp2.1\WebTrab01.dll
+D:\Desktop\faculdade\tuller\asp\AspIfsp\Trab1\WebTrab01\bin\Debug\netcoreapp2.1\WebTrab01.pdb
+D:\Desktop\faculdade\tuller\asp\AspIfsp\Trab1\WebTrab01\obj\Debug\netcoreapp2.1\WebTrab01.csprojAssemblyReference.cache
+D:\Desktop\faculdade\tuller\asp\AspIfsp\Trab1\WebTrab01\obj\Debug\netcoreapp2.1\WebTrab01.csproj.CoreCompileInputs.cache
+D:\Desktop\faculdade\tuller\asp\AspIfsp\Trab1\WebTrab01\obj\Debug\netcoreapp2.1\WebTrab01.RazorAssemblyInfo.cache
+D:\Desktop\faculdade\tuller\asp\AspIfsp\Trab1\WebTrab01\obj\Debug\netcoreapp2.1\WebTrab01.RazorAssemblyInfo.cs
+D:\Desktop\faculdade\tuller\asp\AspIfsp\Trab1\WebTrab01\obj\Debug\netcoreapp2.1\WebTrab01.AssemblyInfoInputs.cache
+D:\Desktop\faculdade\tuller\asp\AspIfsp\Trab1\WebTrab01\obj\Debug\netcoreapp2.1\WebTrab01.AssemblyInfo.cs
+D:\Desktop\faculdade\tuller\asp\AspIfsp\Trab1\WebTrab01\obj\Debug\netcoreapp2.1\WebTrab01.RazorTargetAssemblyInfo.cache
+D:\Desktop\faculdade\tuller\asp\AspIfsp\Trab1\WebTrab01\obj\Debug\netcoreapp2.1\WebTrab01.dll
+D:\Desktop\faculdade\tuller\asp\AspIfsp\Trab1\WebTrab01\obj\Debug\netcoreapp2.1\WebTrab01.pdb
+C:\Users\Brenno\Documents\Faculdade\6º Semestre\SWII2\AspIfsp-master\Trab1\WebTrab01\bin\Debug\netcoreapp2.1\WebTrab01.deps.json
+C:\Users\Brenno\Documents\Faculdade\6º Semestre\SWII2\AspIfsp-master\Trab1\WebTrab01\bin\Debug\netcoreapp2.1\WebTrab01.runtimeconfig.json
+C:\Users\Brenno\Documents\Faculdade\6º Semestre\SWII2\AspIfsp-master\Trab1\WebTrab01\bin\Debug\netcoreapp2.1\WebTrab01.runtimeconfig.dev.json
+C:\Users\Brenno\Documents\Faculdade\6º Semestre\SWII2\AspIfsp-master\Trab1\WebTrab01\bin\Debug\netcoreapp2.1\WebTrab01.dll
+C:\Users\Brenno\Documents\Faculdade\6º Semestre\SWII2\AspIfsp-master\Trab1\WebTrab01\bin\Debug\netcoreapp2.1\WebTrab01.pdb
+C:\Users\Brenno\Documents\Faculdade\6º Semestre\SWII2\AspIfsp-master\Trab1\WebTrab01\obj\Debug\netcoreapp2.1\WebTrab01.csproj.AssemblyReference.cache
+C:\Users\Brenno\Documents\Faculdade\6º Semestre\SWII2\AspIfsp-master\Trab1\WebTrab01\obj\Debug\netcoreapp2.1\WebTrab01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brenno\Documents\Faculdade\6º Semestre\SWII2\AspIfsp-master\Trab1\WebTrab01\obj\Debug\netcoreapp2.1\WebTrab01.AssemblyInfoInputs.cache
+C:\Users\Brenno\Documents\Faculdade\6º Semestre\SWII2\AspIfsp-master\Trab1\WebTrab01\obj\Debug\netcoreapp2.1\WebTrab01.AssemblyInfo.cs
+C:\Users\Brenno\Documents\Faculdade\6º Semestre\SWII2\AspIfsp-master\Trab1\WebTrab01\obj\Debug\netcoreapp2.1\WebTrab01.csproj.CoreCompileInputs.cache
+C:\Users\Brenno\Documents\Faculdade\6º Semestre\SWII2\AspIfsp-master\Trab1\WebTrab01\obj\Debug\netcoreapp2.1\WebTrab01.RazorAssemblyInfo.cache
+C:\Users\Brenno\Documents\Faculdade\6º Semestre\SWII2\AspIfsp-master\Trab1\WebTrab01\obj\Debug\netcoreapp2.1\WebTrab01.RazorAssemblyInfo.cs
+C:\Users\Brenno\Documents\Faculdade\6º Semestre\SWII2\AspIfsp-master\Trab1\WebTrab01\obj\Debug\netcoreapp2.1\WebTrab01.RazorTargetAssemblyInfo.cache
+C:\Users\Brenno\Documents\Faculdade\6º Semestre\SWII2\AspIfsp-master\Trab1\WebTrab01\obj\Debug\netcoreapp2.1\WebTrab01.dll
+C:\Users\Brenno\Documents\Faculdade\6º Semestre\SWII2\AspIfsp-master\Trab1\WebTrab01\obj\Debug\netcoreapp2.1\WebTrab01.pdb
+C:\Users\Brenno\Documents\Faculdade\6º Semestre\SWII2\AspIfsp-master\Trab1\WebTrab01\obj\Debug\netcoreapp2.1\WebTrab01.genruntimeconfig.cache

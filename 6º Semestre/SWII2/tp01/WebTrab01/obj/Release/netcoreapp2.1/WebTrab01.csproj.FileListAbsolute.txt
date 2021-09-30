@@ -1,0 +1,14 @@
+C:\Users\dougd\source\repos\Trab01\WebTrab01\bin\Release\netcoreapp2.1\WebTrab01.deps.json
+C:\Users\dougd\source\repos\Trab01\WebTrab01\bin\Release\netcoreapp2.1\WebTrab01.runtimeconfig.json
+C:\Users\dougd\source\repos\Trab01\WebTrab01\bin\Release\netcoreapp2.1\WebTrab01.runtimeconfig.dev.json
+C:\Users\dougd\source\repos\Trab01\WebTrab01\bin\Release\netcoreapp2.1\WebTrab01.dll
+C:\Users\dougd\source\repos\Trab01\WebTrab01\bin\Release\netcoreapp2.1\WebTrab01.pdb
+C:\Users\dougd\source\repos\Trab01\WebTrab01\obj\Release\netcoreapp2.1\WebTrab01.csproj.CoreCompileInputs.cache
+C:\Users\dougd\source\repos\Trab01\WebTrab01\obj\Release\netcoreapp2.1\WebTrab01.RazorAssemblyInfo.cache
+C:\Users\dougd\source\repos\Trab01\WebTrab01\obj\Release\netcoreapp2.1\WebTrab01.RazorAssemblyInfo.cs
+C:\Users\dougd\source\repos\Trab01\WebTrab01\obj\Release\netcoreapp2.1\WebTrab01.AssemblyInfoInputs.cache
+C:\Users\dougd\source\repos\Trab01\WebTrab01\obj\Release\netcoreapp2.1\WebTrab01.AssemblyInfo.cs
+C:\Users\dougd\source\repos\Trab01\WebTrab01\obj\Release\netcoreapp2.1\WebTrab01.RazorTargetAssemblyInfo.cache
+C:\Users\dougd\source\repos\Trab01\WebTrab01\obj\Release\netcoreapp2.1\WebTrab01.dll
+C:\Users\dougd\source\repos\Trab01\WebTrab01\obj\Release\netcoreapp2.1\WebTrab01.pdb
+C:\Users\dougd\source\repos\Trab01\WebTrab01\obj\Release\netcoreapp2.1\WebTrab01.csprojAssemblyReference.cache
