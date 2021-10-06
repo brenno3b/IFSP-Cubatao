@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrimeiroPJ.PrimeiraPagina">
+    <ContentPage.Content>
+        <StackLayout>
+
+            <Label Text="Tela de login"
+                VerticalOptions="Center" 
+                HorizontalTextAlignment="Center"
+                Rotation="0"
+                IsVisible="true"
+                FontSize="Large"
+                FontAttributes="Bold"
+                TextColor="White"/>
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Label Grid.Row="0" Grid.Column="0" Text="ID:" VerticalOptions="Center" FontSize="Medium" TextColor="White" HorizontalTextAlignment="Center"/>
+                <Label Grid.Row="1" Grid.Column="0" Text="Senha:" VerticalOptions="Center" FontSize="Medium" TextColor="White" HorizontalTextAlignment="Center"/>
+                <Entry x:Name="entryUsername" Grid.Row="0" Grid.Column="1" Placeholder="Username"/>
+                <Entry x:Name="entryPassword" Grid.Row ="1" Grid.Column="1" Placeholder="Password"/>
+                <Button x:Name="btnOk" Clicked="btnOk_Clicked" Grid.Row="2" Grid.Column="0" Text="Ok"/>
+                <Button x:Name="btnLimpar" Clicked="btnLimpar_Clicked" Grid.Row="2" Grid.Column="1" Text="Limpar"/>
+                <Button x:Name="btnCreditos" Clicked="btnCreditos_Clicked" Grid.Row="2" Grid.Column="2" Text="Créditos"/>
+            </Grid>
+
+            
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
